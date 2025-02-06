@@ -1,0 +1,28 @@
+{
+  "languageSwitch": "Tārua Reo",
+  "Auckland": {
+    "h1": "Akarana",
+    "h2": "Kaitohutohu ki te NZ",
+    "p": "Akarana, he pa i te ao hākinakina e ngā moana rerekē, pērā i te kohī parahi kei te moana o te Moananui-a-Kiwa. Whether it's the modern vibrancy of the bustling city or the pure beauty of its natural landscapes, Akarana will captivate every visitor."
+  },
+  "QueensTown": {
+    "h1": "Te Tāone Kuīni",
+    "h2": "Piki te oranga",
+    "p": "Ko Te Tāone Kuīni kei te taha o te Roto Wakatipu me ngā Maunga o te Tonga, he wāhi rongonui mō ngā mahi rongoā me ngā karapu. He wāhi rongonui mō ngā mahi rongoā, me ngā papa tākaro ki ngā taupānga hou."
+  },
+  "MissionBay": {
+    "h1": "Te Whanga Mīhiona",
+    "h2": "Haere me te manawa tākiri",
+    "p": "Kei waho o Akarana te Whanga Mīhiona, he wāhi pātea pai mō ngā takutai, me ngā ātea kiriata. E kore koe e makona ki te ahua me te mīhiona."
+  },
+  "FairyFall": {
+    "h1": "Peka Hōkū",
+    "h2": "I te ropo i te au",
+    "p": "Fairy Falls, tucked away in the native bush, offers a serene escape. This hidden gem welcomes you with peace and beautiful water landscapes."
+  },
+  "MountainCook": {
+    "h1": "Mount Cook",
+    "h2": "Ngā pae tūranga",
+    "p": "Mount Cook, a stunning peak, offers breathtaking views of glaciers and mountain ranges, showcasing its beauty across the Southern Alps."
+  }
+}
