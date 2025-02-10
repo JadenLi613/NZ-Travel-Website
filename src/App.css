@@ -140,7 +140,7 @@ body {
 }
 
 .main-structure header .logo:hover {
-    transform: scale(1.2); /* 鼠标悬停时放大 */
+    transform: scale(1.05); /* 鼠标悬停时放大 */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 添加阴影效果 */
 }
 
