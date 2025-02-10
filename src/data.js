@@ -14,6 +14,21 @@ export const CONTENT_INFO = {
         },
         src: "/assets/videos/Auckland.mp4"
     },
+    Wellington: {
+        h1: {
+            en: "Wellington",
+            mi: "Te Whanganui-a-Tara"
+        },
+        h2: {
+            en: "Cultural Heartland",
+            mi: "Te Manawao Tikanga"
+        },
+        p: {
+            en: "Wellington, the vibrant capital of New Zealand, is a dynamic blend of stunning waterfront views, rich cultural heritage, and a thriving arts scene. Nestled between rugged hills and a picturesque harbor, it offers a unique mix of urban energy and natural beauty.  ",
+            mi: "Ko Te Whanganui-a-Tara, te whakapaipai hihiri o Aotearoa, he whakakotahitanga hihiri o nga tirohanga whakamihi i te taha moana, te taonga tuku iho ahurea, me te ao toi. Kei waenganui i nga puke taratara me te whanga ataahua, he whakakotahitanga ahurei o te kaha o te taone me te ataahua o te taiao."
+        },
+        src: "/assets/videos/Wellington.mp4"
+    },
     QueensTown: {
         h1: {
             en: "QueensTown",
