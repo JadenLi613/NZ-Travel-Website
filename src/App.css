@@ -126,6 +126,25 @@ body {
 }
 
 
+.main-structure header .buttons-container {
+    display: flex;
+    gap: 60px;
+    margin-left: 10px; /* 向左移动按钮容器 */
+}
+
+.main-structure header .logo {
+    text-decoration: none;
+    color: var(--main-text-color); /* 默认颜色 */
+    transition: 0.2s;
+    cursor: pointer; /* 鼠标悬停时显示手型 */
+}
+
+.main-structure header .logo:hover {
+    transform: scale(1.2); /* 鼠标悬停时放大 */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 添加阴影效果 */
+}
+
+
 .main-structure header a {
     display: inline-block;
     text-decoration: none;
@@ -133,9 +152,21 @@ body {
     transition: 0.2s;
 }
 .main-structure header a:hover{
-    transform:scale(1.2);
+    transform:scale(1.1);
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
+
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .displayed-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+  }
 
 .main-structure header,
 .main-structure .content,
