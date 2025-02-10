@@ -1,0 +1,28 @@
+{
+  "languageSwitch": "Switch Language",
+  "Auckland": {
+    "h1": "Auckland",
+    "h2": "Explore the NZ",
+    "p": "Auckland, a city embraced by two majestic harbors, is like a brilliant jewel nestled in the Pacific Ocean. Whether it's the modern vibrancy of the bustling city or the pure beauty of its natural landscapes, Auckland captivates every visitor who comes its way."
+  },
+  "QueensTown": {
+    "h1": "QueensTown",
+    "h2": "Feel the new vitality",
+    "p": "Queenstown, surrounded by Lake Wakatipu and the Southern Alps, is an adventure lover's paradise. Known for thrilling activities like bungee jumping and skydiving, it also offers stunning views, charming cafes, and a peaceful atmosphere."
+  },
+  "MissionBay": {
+    "h1": "Mission Bay",
+    "h2": "Enjoy passionate time",
+    "p": "Mission Bay, just outside Auckland, is a perfect beachside escape with golden sands, calm waters, and views of Rangitoto Island. Enjoy a relaxing day on the beach, stroll along the promenade, or savor fresh seafood at the local cafes."
+  },
+  "FairyFall": {
+    "h1": "Fairy Fall",
+    "h2": "Experience without limits",
+    "p": "Fairy Falls, tucked away in Auckland’s greenery, offers a serene escape with its cascading waters and tranquil surroundings. The short hike through lush forests leads to this hidden gem, where nature’s beauty provides a peaceful retreat from the city."
+  },
+  "MountainCook": {
+    "h1": "Mountain Cook",
+    "h2": "Enjoy peak and freedom",
+    "p": "Mount Cook, New Zealand's tallest peak, boasts breathtaking views of glaciers and alpine landscapes. A popular destination for hikers and climbers, it offers stunning trails like the Hooker Valley Track, where visitors can experience the raw beauty of the Southern Alps."
+  }
+}
