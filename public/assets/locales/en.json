@@ -18,11 +18,19 @@
   "FairyFall": {
     "h1": "Fairy Fall",
     "h2": "Experience without limits",
-    "p": "Fairy Falls, tucked away in Auckland’s greenery, offers a serene escape with its cascading waters and tranquil surroundings. The short hike through lush forests leads to this hidden gem, where nature’s beauty provides a peaceful retreat from the city."
+    "p": "Fairy Falls, tucked away in Auckland's greenery, offers a serene escape with its cascading waters and tranquil surroundings. The short hike through lush forests leads to this hidden gem, where nature's beauty provides a peaceful retreat from the city."
   },
   "MountainCook": {
     "h1": "Mountain Cook",
     "h2": "Enjoy peak and freedom",
     "p": "Mount Cook, New Zealand's tallest peak, boasts breathtaking views of glaciers and alpine landscapes. A popular destination for hikers and climbers, it offers stunning trails like the Hooker Valley Track, where visitors can experience the raw beauty of the Southern Alps."
+  },
+  "weather": {
+    "title": "New Zealand Weather",
+    "loading": "Loading...",
+    "error": "Could not fetch weather data",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "temperature": "Temperature"
   }
 }

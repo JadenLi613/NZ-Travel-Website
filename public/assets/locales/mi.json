@@ -24,5 +24,13 @@
     "h1": "Mount Cook",
     "h2": "Ngā pae tūranga",
     "p": "Mount Cook, a stunning peak, offers breathtaking views of glaciers and mountain ranges, showcasing its beauty across the Southern Alps."
+  },
+  "weather": {
+    "title": "Ngā Huarere o Aotearoa",
+    "loading": "Uta ana...",
+    "error": "Kāore i taea te tiki raraunga huarere",
+    "humidity": "Haukū",
+    "wind": "Hau",
+    "temperature": "Pāmahana"
   }
 }

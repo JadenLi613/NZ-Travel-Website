@@ -1,7 +1,0 @@
-npm run dev
-
-
-有一个jsx编写的网页程序，现在需要在网页上添加一个文本按钮(Māori Culture)，鼠标移动到按钮上后就显示三个新的文本选项按钮(三个选项分别为Māori History, Spirit of Waitangi, Māori Worldview)，鼠标点击某个新选项，就出现一张图片的覆盖在原网页上，鼠标再次点击则这个图片页面消失，重新展示网页主界面，一共要有三个覆盖页面对应三个选项按钮。这些功能要在一个.jsx文件里实现。
-这个新文件的路径是Maori-Project-main\src\components\
-原有app.css的路径是Maori-Project-main\src\
-将要存放图片的路径是Maori-Project-main\public\assets\images\,图片的文件名就是对应按钮的内容。

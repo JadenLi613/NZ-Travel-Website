@@ -1,4 +1,6 @@
-const Footer = () => {
+import React from 'react';
+
+const Footer = ({ onWeatherClick }) => {
   return (
     <footer>
       <a href="https://www.airbnb.com" target="_blank" rel="noopener noreferrer">
@@ -7,9 +9,9 @@ const Footer = () => {
       <a href="https://www.booking.com/flights" target="_blank" rel="noopener noreferrer">
         <img src="/assets/icons/plane.svg" alt="plane" />
       </a>
-      <a href="https://www.weathermap.co.nz/weather-forecasts/new-zealand" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/icons/sun.svg" alt="sun" />
-      </a>
+      <div className="weather-button" onClick={onWeatherClick}>
+        <img src="/assets/icons/sun.svg" alt="weather" />
+      </div>
     </footer>
   );
 };

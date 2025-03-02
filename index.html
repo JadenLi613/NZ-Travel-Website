@@ -5,13 +5,23 @@
     <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Travel in NZ</title>
-    <link rel="stylesheet" href="/path/to/your/styles.css" />
+    <link rel="stylesheet" href="/src/styles.css" />
   </head>
   <body>
     <div id="root">
       <div class="language-switcher">
-        <button class="language-toggle">EN</button>
-        <button class="language-toggle">ZH</button>
+        <button 
+          type="button" 
+          class="language-toggle" 
+          aria-label="Switch to English"
+          data-lang="en"
+        >EN</button>
+        <button 
+          type="button" 
+          class="language-toggle" 
+          aria-label="切换到中文"
+          data-lang="zh"
+        >ZH</button>
       </div>
     </div>
     <script type="module" src="/src/main.jsx"></script>
